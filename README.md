@@ -12,7 +12,7 @@ Generate realistic Healthcare Accounts Receivable (AR) billing scenarios with bu
 
 ```bash
 # Clone repository
-git clone <repo-url>
+git clone https://github.com/neelcohere/ar-scenario-generator
 cd ar-scenario-generator
 
 # Install dependencies (using uv)
